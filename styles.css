@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 .cards {
   display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -6,4 +10,13 @@
 
 .card {
   border: 2px solid red;
+  padding: 10px;
+}
+
+.card-link-container {
+  background: #D3D3D3;
+}
+
+.card-link {
+  padding: 12px 5px;
 }
