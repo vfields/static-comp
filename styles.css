@@ -9,8 +9,8 @@ body {
 
 header {
   background-color: black;
-  padding: 25px;
-  margin: -10px -10px 0px -10px;
+  padding: 18px; /*
+  margin: -10px -10px 0px -10px; */
 }
 
 h2 {
@@ -53,10 +53,19 @@ p {
 
 .navigation {
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation img {
+  height: 18px;
+  width: 18px;
 }
 
 .nav-text {
   color: white;
+  margin-left: 10px;
+  margin-right: 35px;
 }
 
 .cards {
