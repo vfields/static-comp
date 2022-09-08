@@ -21,6 +21,23 @@ p {
   font-size: 14px;
 }
 
+.admin-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.admin-container img {
+  height: 30px;
+  width: 40px;
+}
+
+.admin-un,
+.admin-button {
+  color: white;
+  margin: 5px;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
