@@ -15,6 +15,7 @@ header {
 
 h2 {
   font-size: 30px;
+  margin-top: 35px;
 }
 
 p {
@@ -36,6 +37,26 @@ p {
 .admin-button {
   color: white;
   margin: 5px;
+}
+
+.header-bottom-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.header-bottom-container img {
+  height: 60px;
+  width: 175px;
+}
+
+.navigation {
+  display: flex;
+}
+
+.nav-text {
+  color: white;
 }
 
 .cards {
