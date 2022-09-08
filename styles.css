@@ -81,6 +81,42 @@ p {
   width: 275px;
 }
 
+.card-header-2 {
+  height: 33%;
+  background-color: red;
+  background-image: url("assets/lacey.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-header-2 img {
+  height: 60px;
+  width: 60px;
+  margin-left: 10px;
+  margin-bottom: 55px;
+}
+
+.view-count {
+  margin-right: 15px;
+  margin-bottom: 30px;
+  text-align: center;
+  text-shadow: #6A0DAD 2px 1px 12px;
+}
+
+.views {
+  color: white;
+  margin-bottom: 3px;
+}
+
+.views-number {
+  color: white;
+  font-size: 35px;
+  margin-top: 0px;
+}
+
 .card-header {
   height: 33%;
 }
