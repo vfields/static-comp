@@ -7,6 +7,12 @@ body {
   background-color: #EBECF0;
 }
 
+header {
+  background-color: black;
+  padding: 25px;
+  margin: -10px -10px 0px -10px;
+}
+
 h2 {
   font-size: 30px;
 }
