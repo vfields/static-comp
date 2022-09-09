@@ -30,6 +30,9 @@ This static comp was assigned during the 3rd week of the 2nd module of Turing's 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Deploy Link
+Click [here](https://vfields.github.io/static-comp/)!
+
 ## Setup
 - Clone the repository to your local machine
 - `cd` into the project
